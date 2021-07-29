@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuzneghm
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
